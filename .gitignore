@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 
 # Secrets
+.idea
 secrets/
-keywords.json
+*.json
+Pipfile.lock
